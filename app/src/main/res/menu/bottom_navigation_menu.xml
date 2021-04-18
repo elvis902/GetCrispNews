@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/generalFragment"
+        android:icon="@drawable/ic_home_general"
+        android:title="General"/>
+    <item
+        android:id="@+id/businessFragment"
+        android:icon="@drawable/ic_business"
+        android:title="Business"/>
+    <item
+        android:id="@+id/sportsFragment"
+        android:icon="@drawable/ic_sports"
+        android:title="Sports"/>
+    <item
+        android:id="@+id/technologyFragment"
+        android:icon="@drawable/ic_technology"
+        android:title="Technology"/>
+    <item
+        android:id="@+id/entertainmentFragment"
+        android:icon="@drawable/ic_entertainment"
+        android:title="Entertainment"/>
+
+</menu>
